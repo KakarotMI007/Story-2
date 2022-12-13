@@ -1,3 +1,8 @@
 Here we can write code or whatever we want before we did work by the help of short of command in terminal. I think
 that is haptic to do it here we can work more easily by the help of github UI.
 we can commit here at the end of this.
+
+
+// Experimental branch written following: - //
+
+same here we can do out of the box here. In future we like it then we have a option to merge with main branch.
